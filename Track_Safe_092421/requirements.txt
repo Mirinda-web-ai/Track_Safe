@@ -1,0 +1,12 @@
+opencv-python
+face_recognition
+numpy
+pandas
+Pillow
+ultralytics
+streamlit
+cvzone
+matplotlib
+python-multipart
+sqlite3
+winsound; platform_system == 'Windows'
